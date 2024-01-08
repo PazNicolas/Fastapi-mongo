@@ -1,0 +1,7 @@
+# Ignora todos los archivos y carpetas que contengan la palabra "cache"
+**/cache
+**/*.cache
+
+# También puedes especificar archivos o carpetas específicos para ignorar
+logs/
+temp/
